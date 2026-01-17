@@ -30,5 +30,7 @@ This project focuses on predicting product sales based on advertising expenditur
 ## Results
 The trained model learns the relationship between advertising budgets and sales and can be reused for future predictions.
 
+🌐 Live Web App: https://advertisingsales.streamlit.app/
+
 ## Conclusion
 This project demonstrates a complete end-to-end machine learning workflow on a regression problem.
